@@ -3,6 +3,13 @@
 
 > Source archive of Claude Code and a clean-room Python rewrite research repository
 
+## 🔥🔥🔥 News
+
+- 9:50 AM · Mar 31, 2026: [Claude code memory analysis](https://x.com/henryl_ai/status/2039022608310808965)
+- 5:41 AM · Mar 31, 2026: [Why Claude Code Outperforms Other Tools: An Analysis](https://x.com/YukerX/status/2038959908968919297)
+- 3:02 AM · Mar 31, 2026: [Community Reaction to the Claude Code Source Exposure](https://x.com/hank_aibtc/status/2038919948370616330)
+- 1:23 AM · Mar 31, 2026: [A Viral Post on the Claude Code Source Leak](https://x.com/Fried_rice/status/2038894956459290963?s=20)
+
 This repository contains two subprojects that study Claude Code (Anthropic’s official CLI tool) from two different angles:
 
 | Subproject                                            | Language   | Nature                              | File Count  |
@@ -12,12 +19,7 @@ This repository contains two subprojects that study Claude Code (Anthropic’s o
 
 ---
 
-## 🔥🔥🔥 News
 
-- 9:50 AM · Mar 31, 2026: [Claude code memory analysis](https://x.com/henryl_ai/status/2039022608310808965)
-- 5:41 AM · Mar 31, 2026: [Why Claude Code Outperforms Other Tools: An Analysis](https://x.com/YukerX/status/2038959908968919297)
-- 3:02 AM · Mar 31, 2026: [Community Reaction to the Claude Code Source Exposure](https://x.com/hank_aibtc/status/2038919948370616330)
-- 1:23 AM · Mar 31, 2026: [A Viral Post on the Claude Code Source Leak](https://x.com/Fried_rice/status/2038894956459290963?s=20)
 
 ## 1. claude-code-source-code
 
