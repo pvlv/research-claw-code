@@ -5,6 +5,7 @@
 
 ## 🔥🔥🔥 News
 
+- 12:00 AM · Mar 31, 2026: [Hacker News discussion about Claude Code Leak](https://news.ycombinator.com/item?id=47586778)
 - 9:50 AM · Mar 31, 2026: [Claude code memory analysis](https://x.com/henryl_ai/status/2039022608310808965)
 - 9:48 AM · Mar 31, 2026: [Claude Code's source code appears to have leaked: here's what we know](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
 - 5:41 AM · Mar 31, 2026: [Why Claude Code Outperforms Other Tools: An Analysis](https://x.com/YukerX/status/2038959908968919297)
