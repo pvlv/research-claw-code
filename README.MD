@@ -22,6 +22,29 @@
 - 2:57 AM · Mar 31, 2026: [The code behind Claude Code](https://x.com/mal_shaik/status/2038918662489510273)
 - 1:23 AM · Mar 31, 2026: [A Viral Post on the Claude Code Source Leak](https://x.com/Fried_rice/status/2038894956459290963?s=20)
 
+---
+
+  * [1. claude-code-source-code](#1-claude-code-source-code)
+    + [Overall Architecture](#overall-architecture)
+    + [Core Execution Flow](#core-execution-flow)
+    + [Tech Stack](#tech-stack)
+    + [Main Module Descriptions](#main-module-descriptions)
+      - [Tool System (40+ tools)](#tool-system--40--tools-)
+      - [Slash Commands (~87)](#slash-commands---87-)
+      - [Permission System](#permission-system)
+      - [Context Management](#context-management)
+      - [Analysis Documents (`docs/`)](#analysis-documents---docs---)
+  * [2. claw-code](#2-claw-code)
+    + [Overall Architecture](#overall-architecture-1)
+    + [Core Classes](#core-classes)
+    + [CLI Commands](#cli-commands)
+    + [Design Features](#design-features)
+  * [Comparison of the Two Projects](#comparison-of-the-two-projects)
+  * [License and Disclaimer](#license-and-disclaimer)
+
+
+
+---
 This repository contains subprojects that study Claude Code (Anthropic’s official CLI tool: source claude code) from two different angles:
 
 | Subproject                                            | Language   | Nature                              | File Count  |
