@@ -41,7 +41,7 @@
     + [Core Classes](#core-classes)
     + [CLI Commands](#cli-commands)
     + [Design Features](#design-features)
-  * [Comparison of the Two Projects](#comparison-of-the-two-projects)
+  * [Comparison of the Projects](#comparison-of-the-two-projects)
   * [License and Disclaimer](#license-and-disclaimer)
 
 
